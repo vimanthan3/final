@@ -1,3 +1,6 @@
 hello every one   
 extra one is added
 nothing happen
+
+
+clear the file
